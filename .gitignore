@@ -1,0 +1,24 @@
+# Unity-specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+.vscode/
+
+# OS and IDE junk
+.DS_Store
+*.swp
+*.sln
+*.user
+*.csproj
+*.pidb
+*.booproj
+*.suo
+
+# Cache and other
+*.cache
+*.bak
